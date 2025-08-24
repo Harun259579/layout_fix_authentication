@@ -1,0 +1,22 @@
+.slider-img
+{
+	height: 320px;
+	object-fit: cover;
+}
+
+.left-sidebar
+{
+	position: sticky;
+	top: 15px;
+	background: #fff;
+	border: 1px solid #e9ecef;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.carousel-caption
+{
+	background-color: rgba(0,0,0,0.4);
+	padding: 10px;
+	border-radius: 5px;
+}
